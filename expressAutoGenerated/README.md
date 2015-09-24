@@ -11,7 +11,8 @@ When running one of the commands
 
 A folder with a functioning website will be generated.
 
-HOMEWORK: 	Auto Generate 50 sites (you can delete them again) so you get use to the processes.
-			Change the routes/index.js file and the views/index.ejs file and se how it effects the website in the browser
-			Play with it!
+## HOMEWORK: 	
+* Auto Generate 50 sites (you can delete them again) so you get used to the processes.
+* Change the routes/index.js file and the views/index.ejs file and see how it effects the website in the browser
+* Play with it!
 
